@@ -1,0 +1,6 @@
+fdis_env/
+__pycache__/
+*.pyc
+*.pkl
+outputs/
+.env
