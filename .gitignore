@@ -4,3 +4,4 @@ __pycache__/
 *.pkl
 outputs/
 .env
+scripts/destruct_sql.py
